@@ -1,0 +1,162 @@
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\Emgucv Install testing_CameraCapture\Level 1 - CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Google Drive\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\OpenCamEmguCV\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\White-Paper_Cam-Assignment\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\L2Bot-Line_Follow\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Desktop\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhalaf\Desktop\Personal Documents\LTU\Courses\Robotics Programming\C# Programming\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\kkhal\Desktop\Number-Detection_Video\CameraCapture\obj\Debug\CameraCapture.pdb
